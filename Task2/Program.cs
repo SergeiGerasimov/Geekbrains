@@ -42,5 +42,5 @@ if (num1 == 7)
 }
 else
 {
-     Console.Write("Такого дня недели нет");
+    Console.Write("Такого дня недели нет");
 }
